@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>main_sprite_title</key>
+<string> P L U S </string>
+
+<key>main_menu_start</key>
+<string>START</string>
+
+<key>main_menu_setting</key>
+<string>SETTING</string>
+
+<key>main_menu_exit</key>
+<string>EXIT</string>
+
+<key>main_menu_pop_easy</key>
+<string>EASY</string>
+
+<key>main_menu_pop_normal</key>
+<string>NORMAL</string>
+
+<key>main_menu_pop_hard</key>
+<string>HARD</string>
+
+<key>main_menu_pop_sound</key>
+<string>SOUND</string>
+
+<key>main_menu_pop_sound_close</key>
+<string>- SOUND -</string>
+
+<key>main_menu_pop_music</key>
+<string>MUSIC</string>
+
+<key>main_menu_pop_music_close</key>
+<string>- MUSIC -</string>
+
+<key>main_menu_pop_exit_yes</key>
+<string>YES!</string>
+
+<key>main_menu_pop_exit_no</key>
+<string>NO!</string>
+
+<key>game_menu_back</key>
+<string>&lt; BACK</string>
+
+<key>game_label_end</key>
+<string>END</string>
+
+<key>game_label_start</key>
+<string>START</string>
+
+<key>finish_menu_restart</key>
+<string>RESTART</string>
+
+<key>finish_menu_next</key>
+<string>NEXT</string>
+
+<key>finish_menu_back</key>
+<string>BACK</string>
+
+<key>finish_label_prompt</key>
+<string>YOUR SOCRE IS :</string>
+
+<key>select_label_previous</key>
+<string>&lt; PREVIOUS</string>
+
+<key>select_label_next</key>
+<string>NEXT &gt;</string>
+
+<key>select_label_level</key>
+<string>LEVEL : </string>
+
+<key>select_label_lock</key>
+<string>LOCKED</string>
+
+<key>select_label_unlock</key>
+<string>UNLOCKED</string>
+
+<key>select_label_best_score</key>
+<string>BEST SCORE : </string>
+</dict>
+</array>
+</plist>
